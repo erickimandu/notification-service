@@ -1,10 +1,6 @@
-# notification-service
-
 # Notification Service
 
 <div align="center">
-
-![Notification Service Logo](https://via.placeholder.com/600x150?text=Notification+Service)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/notification-service/actions)
 [![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com/yourusername/notification-service/actions)
